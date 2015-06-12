@@ -35,3 +35,4 @@ Submit this as a pull request to the repository you forked, and submit a link to
 
 #### Submissions
 
+Janneisy Vidals  Snap-Memme https://github.com/Jvidals1/Snap-Meme/tree/jannBranch
